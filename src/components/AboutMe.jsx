@@ -1,4 +1,4 @@
-import React,{ useState } from 'react';
+import { useState } from 'react';
 import Photo from '../assets/Omkar-About.png'
 import Resume from '../assets/OmkarRakshe.pdf'
 
