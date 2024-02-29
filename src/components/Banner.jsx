@@ -1,6 +1,6 @@
 import { useRef, useEffect } from 'react';
-import bannerImage from '../assets/Omkar-Rakshe-short-removebg-preview.png'
-import bannerWallpaper from '../assets/banner_wallpaper.svg';
+import bannerImage from '../../assets/Omkar-Rakshe-short-removebg-preview.png'
+import bannerWallpaper from '../../assets/banner_wallpaper.svg'
 import Typed from 'typed.js';
 
 const Banner = () => {

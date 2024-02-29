@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import Photo from '../assets/Omkar-About.png'
-import Resume from '../assets/OmkarRakshe.pdf'
+import Photo from '../../assets/Omkar-About.png'
+import Resume from '../../assets/OmkarRakshe.pdf'
 
 const AboutMe = () => {
     // To make it dynamic

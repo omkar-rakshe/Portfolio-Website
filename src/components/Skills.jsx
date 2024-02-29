@@ -1,4 +1,4 @@
-import bannerWallpaper from '../assets/banner_wallpaper.svg'
+import bannerWallpaper from '../../assets/banner_wallpaper.svg'
 
 
 const Skills = () => {
