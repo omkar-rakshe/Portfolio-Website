@@ -14,7 +14,7 @@ dist-ssr
 *.local
 doc/**/*.pdf
 doc/**/*.png
-.gitignore
+docs
 
 
 # Editor directories and files
