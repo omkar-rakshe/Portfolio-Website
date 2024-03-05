@@ -18,18 +18,19 @@ const Skills = () => {
                     className="box-container flex items-center py-16">
                     <div className="flex justify-center text-white">
                         {/* Banner and   intro */}
-                        <div className="w-2/3 text-center space-y-4">
-                            <h1 className="text-3xl font-semibold">
+                        <div className="text-lg w-1/2 pr-40 text-start">
+                            {/* <h1 className="text-3xl font-semibold">
                                 I have proficiency in following
-                            </h1>
-                            <p></p>
+                            </h1> */}
+                            <p> {/*className="text-lg" */}
+                            Proficient in a diverse array of programming languages and technologies, with a focus on both frontend and backend development for web applications. Skilled in harnessing contemporary frameworks and tools to craft immersive user interfaces. Possesses adept problem-solving abilities, strong communication skills, and a collaborative mindset, driven by a intense dedication to ongoing learning and industry evolution.
+                            </p>
                         {/* Button if you want add like hire me or resume */}
                         </div>
                     </div>
                     <div className="flex justify-center">
                         {/* Skills */} 
-                        
-                        <div className="flex justify-center w-2/3 h-fit space-x-3 flex-wrap">
+                        <div className="flex justify-center w-2/3 space-x-3 flex-wrap">
                             <p className="bg-violet-600 text-white rounded-full mt-3 w-fit px-4 py-3 cursor-pointer hover:bg-violet-800 "><i className="fa-brands fa-html5 "></i> HTML</p>
                             <p className="bg-violet-600 text-white rounded-full mt-3 w-fit px-4 py-3 cursor-pointer hover:bg-violet-800"><i className="fa-brands fa-css3"></i> CSS,Tailwind CSS</p>
                             <p className="bg-violet-600 text-white rounded-full mt-3 w-fit px-4 py-3 cursor-pointer hover:bg-violet-800"><i className="fa-brands fa-js"></i> Javascript</p>

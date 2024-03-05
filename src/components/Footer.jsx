@@ -3,7 +3,7 @@
 const Footer = () => {
     return (
         <>
-            <div className="py-5 bg-indigo-400 px-60 border flex justify-between">
+            <div className="py-5 bg-indigo-800 px-60 border text-white flex justify-between">
                 <div>
                     <p>@{new Date().getFullYear()} Omkar Rakshe <span>All Rights Reserved</span></p>
                 </div>
