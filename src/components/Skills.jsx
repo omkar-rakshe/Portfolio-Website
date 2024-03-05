@@ -22,9 +22,7 @@ const Skills = () => {
                             <h1 className="text-3xl font-semibold">
                                 I have proficiency in following
                             </h1>
-                            <p className="text-lg">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ul
-                            </p>
+                            <p></p>
                         {/* Button if you want add like hire me or resume */}
                         </div>
                     </div>
