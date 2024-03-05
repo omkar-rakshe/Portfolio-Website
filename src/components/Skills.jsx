@@ -16,9 +16,10 @@ const Skills = () => {
                     backgroundSize: 'cover',
                     }} 
                     className="box-container flex items-center py-16">
-                    <div className="flex justify-center text-white">
+                    {/* space-x-2 down */}
+                    <div className="flex  text-white">
                         {/* Banner and   intro */}
-                        <div className="text-lg w-1/2 pr-40 text-start">
+                        <div className="text-lg w-1/2 px-20 text-center">
                             {/* <h1 className="text-3xl font-semibold">
                                 I have proficiency in following
                             </h1> */}
@@ -30,7 +31,8 @@ const Skills = () => {
                     </div>
                     <div className="flex justify-center">
                         {/* Skills */} 
-                        <div className="flex justify-center w-2/3 space-x-3 flex-wrap">
+                        {/* space-x-2 */}
+                        <div className="flex space-x-5 space-y-2 w-2/2 h-full items-center  flex-wrap">
                             <p className="bg-violet-600 text-white rounded-full mt-3 w-fit px-4 py-3 cursor-pointer hover:bg-violet-800 "><i className="fa-brands fa-html5 "></i> HTML</p>
                             <p className="bg-violet-600 text-white rounded-full mt-3 w-fit px-4 py-3 cursor-pointer hover:bg-violet-800"><i className="fa-brands fa-css3"></i> CSS,Tailwind CSS</p>
                             <p className="bg-violet-600 text-white rounded-full mt-3 w-fit px-4 py-3 cursor-pointer hover:bg-violet-800"><i className="fa-brands fa-js"></i> Javascript</p>
